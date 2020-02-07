@@ -1,0 +1,17 @@
+img {
+width: 400px;
+height:500px ;	
+	
+}
+
+table,th,td
+{
+	border:1px solid black;
+}
+
+
+#personal-statement{
+	
+background-color: pink;	
+	
+}
